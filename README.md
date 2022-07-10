@@ -8,7 +8,7 @@ Browser used:          Mozilla
 Software used:         XAMPP
 
 How To Run??
-Above all, to run this project you must have installed a virtual server i.e XAMPP on your PC. Bank Management System in PHP and MySQL with source code is free to download.
+Above all, to run this project you must have installed a virtual server i.e XAMPP on your PC. Bank Management System in PHP and MySQL.
 
 Follow the following steps after Starting Apache and MySQL in XAMPP:
 
