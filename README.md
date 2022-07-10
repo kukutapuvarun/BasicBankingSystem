@@ -2,7 +2,7 @@
 Name Of The Task:       Bank Management System Task
 Language:              PHP
 Databases used:        MySQL
-Design used:           HTML ,JavaScript ,CSS ,Bootstrap
+Design used:           JavaScript ,CSS ,Bootstrap
 Browser used:          Mozilla Firefox
 Software used:         XAMPP
 
