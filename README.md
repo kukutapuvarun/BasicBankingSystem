@@ -1,10 +1,9 @@
 # Basic Banking System
-Bank Management System Project
-Name of Project:       Bank Management System Task
+Name Of The Task:       Bank Management System Task
 Language:              PHP
 Databases used:        MySQL
-Design used:           HTML,JavaScript, Ajax, JQuery, Bootstrap
-Browser used:          Mozilla
+Design used:           HTML ,JavaScript ,CSS ,Bootstrap
+Browser used:          Mozilla Firefox
 Software used:         XAMPP
 
 How To Run??
@@ -20,8 +19,8 @@ Now Connecting Database:
 
 4th Step: So, for now, Open a browser and go to URL “http://localhost/phpmyadmin/”.
 5th Step: After that, Click on the databases tab.
-6th Step: So, Create a database naming “mybank” and then click on the import tab
-7th Step: Certainly, Click on browse file and select “mybank.sql” file which is inside the “bank” folder
+6th Step: So, Create a database naming “mybank” and then click on the import tab.
+7th Step: Certainly, Click on browse file and select “mybank.sql” file which is inside the “bank” folder.
 8th Step: Then, click on Go button.
 
 After Creating Database,
