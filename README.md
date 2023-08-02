@@ -1,23 +1,37 @@
-Name Of The Task: Bank Management System<br />Task Language: PHP<br />Databases used: MySQL<br />Design used: JavaScript ,CSS ,Bootstrap<br />Browser used: Mozilla Firefox<br />Software used: XAMPP
+#TSP - Web Development Internship
 
-How To Run?? Above all, to run this project you must have installed a virtual server i.e. XAMPP on your PC. Bank Management System in PHP and MySQL.
+### Name Of The Project: Bank Management System <br />
+Language Used: PHP<br />
+database used: MySQL<br />
+Design used: JavaScript, CSS, Bootstrap<br />
+Browser used: Mozilla Firefox<br />
+Software used: XAMPP
 
-Follow the following steps after Starting Apache and MySQL in XAMPP:
+### How To Run?
+To run this project your system must contain a virtual server i.e.XAMPP on your PC and Bank Management System in PHP and MySQL.
 
-1st Step: First, Extract the file.<br />2nd Step: After that, Copy the main project folder.<br />3rd Step: So, you need to Paste in "xampp/htdocs/" folder.
+## Follow the following steps after Starting Apache and MySQL in XAMPP :
 
-Now Connecting Database:
+* First, Extract the file.
+* After that, Copy the main project folder then you need to Paste it in "xampp/htdocs/" folder.
 
-4th Step: So, for now, Open a browser and go to URL “http://localhost/phpmyadmin/”.<br />5th Step: After that, Click on the databases tab.<br />6th Step: So, Create a database named “mybank” and then click on the import tab.<br />7th Step: Certainly, Click on browse file and select “mybank.sql” file which is inside the “bank” folder.<br />8th Step: Then, click on Go button.
 
-After Creating the Database,
+  ### Connecting Database to the server:
+  
+  * So, for now, Open a browser and go to URL “http://localhost/phpmyadmin/”.
+  * After that, Click on the databases tab.
+  * and, Create a database named “mybank” and then click on the import tab.
+  * Certainly, browse the files and select “mybank.sql” file which is inside the “bank” folder.
+  * Then, click on the Go button.
+  * Now, Open a browser and go to the URL “http://localhost/bank”
 
-9th Step: Now, Open a browser and go to the URL “http://localhost/bank”
-
-LOGIN DETAILS
-
-Manager Login Username: manager@manager.com Password: manager
-
-Cashier Login Username:cashier@cashier.com Password:cashier
-
-User Login Username: varun@gmail.com Password: varun
+  ## LOGIN DETAILS
+  
+  * Manager Login Username: manager@manager.com</br>
+    Password: manager
+  
+  * Cashier Login Username: cashier@cashier.com</br>
+    Password: cashier
+  
+  * User Login Username: varun@gmail.com</br>
+    Password: varun
